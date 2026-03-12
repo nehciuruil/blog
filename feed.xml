@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Crul&#x60;s blog</title>
+    <link href="https://nehciuruil.github.io/blog/feed.xml" rel="self" />
+    <link href="https://nehciuruil.github.io/blog" />
+    <updated>2026-03-12T21:20:25+08:00</updated>
+    <author>
+        <name>crul</name>
+    </author>
+    <id>https://nehciuruil.github.io/blog</id>
+
+    <entry>
+        <title>Hello,World</title>
+        <author>
+            <name>crul</name>
+        </author>
+        <link href="https://nehciuruil.github.io/blog/helloworld.html"/>
+        <id>https://nehciuruil.github.io/blog/helloworld.html</id>
+
+        <updated>2026-03-12T21:20:07+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    我的洛谷 My Luogu :This 我的GitHub My GitHub:This
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>我的洛谷 My Luogu :<a href="https://www.luogu.com.cn/user/1754918">This</a></p><p>我的GitHub My GitHub:<a href="https://github.com/nehciuruil">This</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

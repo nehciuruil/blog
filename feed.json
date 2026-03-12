@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Crul&#x60;s blog",
+    "description": "",
+    "home_page_url": "https://nehciuruil.github.io/blog",
+    "feed_url": "https://nehciuruil.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "crul"
+    },
+    "items": [
+        {
+            "id": "https://nehciuruil.github.io/blog/helloworld.html",
+            "url": "https://nehciuruil.github.io/blog/helloworld.html",
+            "title": "Hello,World",
+            "summary": "我的洛谷 My Luogu :This 我的GitHub My GitHub:This",
+            "content_html": "<p>我的洛谷 My Luogu :<a href=\"https://www.luogu.com.cn/user/1754918\">This</a></p><p>我的GitHub My GitHub:<a href=\"https://github.com/nehciuruil\">This</a></p>",
+            "author": {
+                "name": "crul"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-12T21:20:07+08:00",
+            "date_modified": "2026-03-12T21:20:25+08:00"
+        }
+    ]
+}
