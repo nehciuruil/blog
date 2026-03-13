@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://nehciuruil.github.io/blog/wo-zhen-fu-liao.html",
+            "url": "https://nehciuruil.github.io/blog/wo-zhen-fu-liao.html",
+            "title": "我真服了",
+            "summary": "我连一个区赛都选拔不进，我是废物",
+            "content_html": "<p>我连一个区赛都选拔不进，我是废物</p>",
+            "author": {
+                "name": "crul"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-13T20:21:17+08:00",
+            "date_modified": "2026-03-13T20:21:17+08:00"
+        },
+        {
             "id": "https://nehciuruil.github.io/blog/helloworld.html",
             "url": "https://nehciuruil.github.io/blog/helloworld.html",
             "title": "Hello,World",
